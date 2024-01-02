@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/Knapsack_problem
+https://medium.com/@logicdevildotcom/knapsack-problems-18b2714e0737
+https://www.educative.io/blog/0-1-knapsack-problem-dynamic-solution
